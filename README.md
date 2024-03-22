@@ -1,0 +1,2 @@
+# autoMerge
+autoMerge for gitlab
